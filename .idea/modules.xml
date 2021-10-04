@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive/Primitive.iml" filepath="$PROJECT_DIR$/Primitive/Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemi.iml" filepath="$PROJECT_DIR$/Udemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/UdemiCompleteJavaDeveloperCourse.iml" filepath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/UdemiCompleteJavaDeveloperCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+    </modules>
+  </component>
+</project>
