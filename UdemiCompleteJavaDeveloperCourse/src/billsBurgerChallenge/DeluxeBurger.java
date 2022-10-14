@@ -2,9 +2,9 @@ package billsBurgerChallenge;
 
 public class DeluxeBurger extends Hamburger {
     public DeluxeBurger() {
-        super("Deluxe","Sausage and Bacon", 14.54, "White");
-        System.out.println("Added Chips for an extra 2.75");
-        System.out.println("Added Drink for an extra 1.81");
+        super("Deluxe","Sausage and Bacon", 19.10, "White");
+        super.addHamburgerAddition1("Chips", 0);
+        super.addHamburgerAddition2("Drink", 0);
     }
 
 
@@ -24,4 +24,5 @@ public class DeluxeBurger extends Hamburger {
     @Override
     public void addHamburgerAddition4(String name, double price) {
         System.out.println("Cannot not add additional items to a deluxe burger");    }
+
 }

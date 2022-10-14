@@ -1,57 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07221318-1784-43db-a960-09980f9219ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Composition/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/Cylinder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arraysChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/complexOperations/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/complexOperations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/encapsulationChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/encapsulationChallenge/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/encapsulationExercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/encapsulationExercise/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/inheritanceChallenge/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/inheritanceChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/inheritanceChallenge/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/inheritanceChallenge/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/listAndArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/minimumElementChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/Forgetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/IndependenceDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/Jaws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/MazeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/StarWars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/polymorphism/challenge/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/poolArea/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/poolArea/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/poolArea/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/reverseArrayChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Couch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Stool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/singleRoomChallenge/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/sortedArray/SortedArray.java" afterDir="false" />
+    <list default="true" id="07221318-1784-43db-a960-09980f9219ef" name="Default Changelist" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/DeluxeBurger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1qsakKUKYrtuVNwNec8ErazA1hB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -82,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SortedArray">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reverseArrayChallenge.Main" />
       <module name="UdemiCompleteJavaDeveloperCourse" />
@@ -163,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.SortedArray" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +133,13 @@
       <option name="presentableId" value="Default" />
       <updated>1617870895448</updated>
     </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1665676125657</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1665676126018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +153,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,14 +176,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/billsBurgerChallenge/Main.java</url>
-          <line>3</line>
-          <properties class="billsBurgerChallenge.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arraysChallenge/Main.java</url>
