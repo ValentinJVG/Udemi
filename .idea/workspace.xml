@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07221318-1784-43db-a960-09980f9219ef" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/autoboxingAndUnboxing/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/autoboxingAndUnboxing/Branches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/autoboxingAndUnboxing/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/autoboxingAndUnboxing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/banking/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/banking/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/banking/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/banking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/mobilePhoneExcerises/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/mobilePhoneExcerises/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arrayListChallengeMobilePhoneContacts/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arrayListChallengeMobilePhoneContacts/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arrayListChallengeMobilePhoneContacts/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/arrayListChallengeMobilePhoneContacts/MobilePhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +45,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.Demo" />
+      <module name="UdemiCompleteJavaDeveloperCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="autoboxingAndUnboxing.Main" />
       <module name="UdemiCompleteJavaDeveloperCourse" />
@@ -75,19 +80,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="banking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listAndArrayList.Main" />
-      <module name="UdemiCompleteJavaDeveloperCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="listAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MobilePhone" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +150,19 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1668608777382</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Initial commit">
+      <created>1673267179300</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1673267179300</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Initial commit">
+      <created>1673267228001</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1673267228001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
