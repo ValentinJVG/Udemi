@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07221318-1784-43db-a960-09980f9219ef" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedListChallenge/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedListChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedListChallenge/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedListChallenge/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedListChallenge/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdemiCompleteJavaDeveloperCourse/src/linkedList/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +165,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1673267228001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Initial commit">
+      <created>1676294550548</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1676294550548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
